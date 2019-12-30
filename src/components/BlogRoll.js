@@ -16,7 +16,7 @@ class BlogRoll extends React.Component {
               <article
                 className={`blog-list-item tile is-child box notification ${
                   post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
+                  }`}
               >
                 <header>
                   {post.frontmatter.featuredimage ? (
@@ -84,7 +84,7 @@ export default () => (
               frontmatter {
                 title
                 templateKey
-                date(formatString: "MMMM DD, YYYY")
+                date(formatString: "MMMM DD, YYYY",locale:"ES")
                 featuredpost
                 featuredimage {
                   childImageSharp {
