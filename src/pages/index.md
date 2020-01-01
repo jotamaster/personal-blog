@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Programación, Tecnología y más..
+image: /img/blog-index.jpeg
+heading: Great coffee with a conscienceee
+subheading: d
 mainpitch:
   title: Why Kaldi
   description: >
